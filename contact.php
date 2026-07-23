@@ -176,7 +176,7 @@ required>
 type="text"
 name="phone"
 class="form-control"
-placeholder="Phone Number">
+placeholder="Phone Number" required>
 
 </div>
 
@@ -186,7 +186,7 @@ placeholder="Phone Number">
 type="text"
 name="subject"
 class="form-control"
-placeholder="Subject">
+placeholder="Subject" required>
 
 </div>
 
@@ -205,7 +205,7 @@ required></textarea>
 
 <button
 type="submit"
-class="btn btn-warning btn-lg">
+class="btn btn-warning btn-sm">
 
 Send Message
 
