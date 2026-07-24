@@ -7,7 +7,7 @@ include "includes/navbar.php";
 
 <div id="heroSlider" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
-    <div class="carousel-indicators">
+    <!-- <div class="carousel-indicators">
 
         <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="0" class="active"></button>
 
@@ -15,7 +15,7 @@ include "includes/navbar.php";
 
         <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="2"></button>
 
-    </div>
+    </div> -->
 
     <div class="carousel-inner">
         <div class="carousel-item active">
@@ -39,7 +39,7 @@ include "includes/navbar.php";
                     Learn More
                 </a>
 
-                <a href="#" class="btn btn-outline-light btn-lg">
+                <a href="join.php" class="btn btn-outline-light btn-lg">
                     Join Us
                 </a>
 
@@ -118,16 +118,111 @@ include "includes/navbar.php";
 </div>
 
 
+<section class="fellowship-section mt-5">
 
-<div class="impact-section pt-5 pb-5">
-    <div class="container">
-        <img src="assets/images/impactimage.png" alt="">
-    </div>
+<div class="container">
+
+<div class="top-title text-center">
+
+<h2>CREATE LASTING IMPACT</h2>
+
 </div>
 
+<div class="welcome-box">
+
+<h1>
+
+YOU ARE WELCOME TO <br>
+
+OUR FELLOWSHIP
+
+</h1>
+
+<div class="row g-3 mt-5">
+
+<div class="col-lg-3 col-md-6">
+
+<div class="leader-card">
+
+<img src="assets/images/paul harris.png" class="img-fluid">
+
+<div class="leader-info">
+
+<h5>Paul Harris</h5>
+
+<p>Founder</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-3 col-md-6">
+
+<div class="leader-card">
+
+<img src="assets/images/olayinka hakeem.png" class="img-fluid">
+
+<div class="leader-info">
+
+<h5>Olayinka Hakeem B.</h5>
+
+<p>RI President (2026–2027)</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-3 col-md-6">
+
+<div class="leader-card">
+
+<img src="assets/images/bukola olabisi.png" class="img-fluid">
+
+<div class="leader-info">
+
+<h5>Bukola Olabisi B.</h5>
+
+<p>DG District 9111 (2026–2027)</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-3 col-md-6">
+
+<div class="leader-card">
+
+<img src="assets/images/lu abikoye.png" class="img-fluid">
+
+<div class="leader-info">
+
+<h5>LU Abikoye</h5>
+
+<p>President (2026–2027)</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
 <section class="latest-projects">
-       <div class="w3l-blog-block-5 py-5" id="blog">
-      <div class="container py-md-5 py-4">
+       <div class="w3l-blog-block-5 " id="blog">
+      <div class="container py-md-5">
         <div
           class="title-main text-center mx-auto mb-md-5 mb-4"
           style="max-width: 700px"

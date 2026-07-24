@@ -68,7 +68,7 @@ include "includes/navbar.php";
 </div>
     <div class="container  bg-white round shadow">
       <div class="text-center pt-5">
-           <h1 class="mb-3 fs-2 shadow">Our Value</h1>
+           <h1 class="mb-3 fs-2 mt-3">Our Value</h1>
          </div>
     <div class="row pt-5  p-3 mb-2">
       <div class="col-md-4">
@@ -146,15 +146,6 @@ include "includes/navbar.php";
                   <p>
                     With a heart committed to service and a vision for a brighter future, the Rotary Club of Isolo Metropolitan proudly sponsored the **Eye Cataract Surgery Initiative**, organized by District 9111 under the banner of *Vision 2025*.
                   </p>
-                  <div
-                    class="d-flex align-items-center justify-content-between mt-4"
-                  >
-                    <!-- <a
-                      href="http://rotaryisolometro.org/events/2025/01/17/rotary-club-of-isolo-metropolitan-sponsors-vision-2025-eye-cataract-surgery/" target="_blank"
-                      class="btn btn-style-primary btn-style text-dark mt-4"
-                      >Read More<i class="fas fa-arrow-right ms-1"></i
-                    ></a> -->
-                  </div>
                 </div>
               </div>
             </div>
@@ -170,15 +161,6 @@ include "includes/navbar.php";
                   <p>
                     All reactions: 2Rotary Club of Isolo Metropolitan and 1 other
                   </p>
-                  <div
-                    class="d-flex align-items-center justify-content-between mt-4"
-                  >
-                    <!-- <a
-                      href="http://rotaryisolometro.org/events/2024/12/07/the-say-no-to-hunger-project-aimed-to-combat-food-insecurity-by-providing-meals-to-vulnerable-individuals-and-families-in-the-community-ikotun-roundabout-lagos/" target="_blank"
-                      class="btn btn-style-primary btn-style text-dark mt-4"
-                      >Read More<i class="fas fa-arrow-right ms-1"></i
-                    ></a> -->
-                  </div>
                 </div>
               </div>
             </div>
@@ -194,15 +176,6 @@ include "includes/navbar.php";
                   <p>
                     led by the Rotary President, Rtn. Adefunke Shodunke, others are President-Elect Rtn. Ganiyu Mapelujo
                   </p>
-                  <div
-                    class="d-flex align-items-center justify-content-between mt-4"
-                  >
-                    <!-- <a
-                    href="http://rotaryisolometro.org/events/2024/11/22/at-the-interact-club-of-matori-grammar-school-we-marked-the-world-interact-week-with-a-meaningful-talk-on-basic-education-and-literacy/" target="_blank"
-                      class="btn btn-style-primary btn-style text-dark mt-4"
-                      >Read More<i class="fas fa-arrow-right ms-1"></i
-                    ></a> -->
-                  </div>
                 </div>
               </div>
             </div>

@@ -81,7 +81,7 @@ if(!empty($site['logo'])){
 
 </ul>
 
-<a href="contact.php" class="btn btn-warning ms-3 px-4">
+<a href="join.php" class="btn btn-warning ms-3 px-4">
 Join Us
 </a>
 

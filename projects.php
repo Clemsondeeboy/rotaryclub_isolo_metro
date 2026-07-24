@@ -62,7 +62,7 @@ include "includes/navbar.php";
 
                 </p>
 
-                <a href="contact.php" class="btn btn-warning mt-3">
+                <a href="join.php" class="btn btn-warning mt-3">
                     Join Our Mission
                 </a>
 
@@ -468,7 +468,7 @@ include "includes/navbar.php";
 
             <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
 
-                <a href="contact.php"
+                <a href="join.php"
                     class="btn btn-warning btn-lg">
 
                     Become A Member

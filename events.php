@@ -318,7 +318,7 @@ within our community.
 
 </p>
 
-<a href="contact.php"
+<a href="join.php"
 
 class="btn btn-warning btn-lg">
 

@@ -116,25 +116,19 @@ info@rotaryisolometro.org
 
 <div class="col-lg-7 mt-5 mt-lg-0">
 
-<?php if(isset($_GET['success'])){ ?>
+<?php
+if (isset($_GET['status']) && $_GET['status'] == 'success') {
+    echo '<div class="alert alert-success">Message sent successfully! Someone will contact you shortly.</div>';
+}
 
-<div class="alert alert-success">
-
-Your message has been sent successfully.
-
-</div>
-
-<?php } ?>
-
-<?php if(isset($_GET['error'])){ ?>
-
-<div class="alert alert-danger">
-
-Something went wrong. Please try again.
-
-</div>
-
-<?php } ?>
+if (isset($_GET['error'])) {
+    if ($_GET['error'] == 'empty_fields') {
+        echo '<div class="alert alert-danger">Please fill in all required fields.</div>';
+    } elseif ($_GET['error'] == 'invalid_email') {
+        echo '<div class="alert alert-danger">Please enter a valid email address.</div>';
+    }
+}
+?>
 
 <div class="contact-form">
 
@@ -155,7 +149,7 @@ type="text"
 name="fullname"
 class="form-control"
 placeholder="Full Name"
-required>
+>
 
 </div>
 
@@ -166,7 +160,7 @@ type="email"
 name="email"
 class="form-control"
 placeholder="Email Address"
-required>
+>
 
 </div>
 
@@ -176,7 +170,7 @@ required>
 type="text"
 name="phone"
 class="form-control"
-placeholder="Phone Number" required>
+placeholder="Phone Number" >
 
 </div>
 
@@ -186,7 +180,7 @@ placeholder="Phone Number" required>
 type="text"
 name="subject"
 class="form-control"
-placeholder="Subject" required>
+placeholder="Subject" >
 
 </div>
 
@@ -197,7 +191,7 @@ name="message"
 class="form-control"
 rows="6"
 placeholder="Write your message..."
-required></textarea>
+></textarea>
 
 </div>
 

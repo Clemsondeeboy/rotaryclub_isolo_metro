@@ -5,8 +5,6 @@ include "includes/navbar.php";
 
 ?>
 
-<!-- Banner -->
-
 <section class="gallery-banner py-5">
 
 <div class="w3l-breadcrumb py-lg-5">
@@ -30,8 +28,6 @@ Capturing Moments of Service Above Self
 </div>
 
 </section>
-
-<!-- Intro -->
 
 <section class="py-5 bg-light">
 
@@ -72,7 +68,7 @@ activities.
 
 </p>
 
-<a href="contact.php"
+<a href="join.php"
 
 class="btn btn-warning btn-lg">
 
@@ -88,7 +84,6 @@ Become A Member
 
 </section>
 
-<!-- Gallery -->
 
 <section class="py-5">
 
@@ -262,7 +257,7 @@ class="gallery-img">
 
 </section>
 
-<!-- Call To Action -->
+
 
 <section class="py-5 text-white gallery-cta">
 
@@ -292,7 +287,7 @@ a lasting impact.
 
 <div class="col-lg-4 text-lg-end">
 
-<a href="contact.php"
+<a href="join.php"
 
 class="btn btn-warning btn-lg px-5">
 
