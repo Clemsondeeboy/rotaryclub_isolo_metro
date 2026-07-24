@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'davidebokpoaledoy@gmail.com';
+        $mail->Username   = 'info@rotaryisolometro.org';
         $mail->Password   = 'YOUR_16_CHAR_APP_PASSWORD';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
@@ -62,8 +62,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             )
         );
 
-        $mail->setFrom('davidebokpoaledoy@gmail.com', 'Rotary Club Isolo Metro');
-        $mail->addAddress('davidebokpoaledoy@gmail.com');
+        $mail->setFrom('info@rotaryisolometro.org', 'Rotary Club Isolo Metro');
+        $mail->addAddress('info@rotaryisolometro.org');
         $mail->addReplyTo($email, $fullname);
 
         $mail->isHTML(true);
