@@ -21,11 +21,11 @@ include "includes/navbar.php";
             </h2>
             <br>
             <p class="rotary-intro" style="margin-bottom: 20px; font-size: 1.1rem;">
-              Rotary Club Isolo Metropolitan was founded in the 2018–2019 Rotary year by a group of vibrant and passionate humanitarians, committed to making a lasting impact in their community and beyond.
+              Rotary Club Isolo Metropolitan was founded in the 2026–2027 Rotary year by a group of vibrant and passionate humanitarians, committed to making a lasting impact in their community and beyond.
             </p>
             
             <p class="rotary-foundation" style="margin-bottom: 20px; font-size: 1.1rem;">
-              The club began its journey under the inspiring leadership of Charter President Rtn. Gbenga Shodunke, whose vision set the tone for excellence in service.
+              The club began its journey under the inspiring leadership of Charter President Rtn. Lu-Abikoye, whose vision set the tone for excellence in service.
             </p>
             
             <p class="rotary-leadership" style="margin-bottom: 20px; font-size: 1.1rem;">
@@ -33,7 +33,7 @@ include "includes/navbar.php";
             </p>
             
             <p class="rotary-current" style="margin-bottom: 20px; font-size: 1.1rem; font-weight: 500;">
-              Today, the club is proudly led by its first and only female President, the dynamic and Irresistible Rtn. Funks Shodunke, who continues to drive the club forward with passion, purpose, and an unwavering commitment to Rotary ideals.
+              Today, the club is proudly led by its first and only female President, the dynamic and Irresistible Rtn. Funks Lu-Abikoye, who continues to drive the club forward with passion, purpose, and an unwavering commitment to Rotary ideals.
             </p>
             
             <p class="rotary-mission" style="font-size: 1.1rem; font-style: italic;">
@@ -41,7 +41,7 @@ include "includes/navbar.php";
           </div>
           <div class="col-lg-6 about-2-secs-right mt-lg-4 mt-5">
           <img
-    src="assets/images/history1.png"
+    src="assets/images/mr-lu-abikoye2.png"
     alt=""
     class="img-fluid rounded-4 shadow">
           </div>
@@ -176,7 +176,7 @@ include "includes/navbar.php";
                   <p>
                     led by the Rotary President, Rtn. Adefunke Shodunke, others are President-Elect Rtn. Ganiyu Mapelujo
                   </p>
-                </div>
+                  </div>
               </div>
             </div>
           </div>
