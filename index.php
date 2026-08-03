@@ -40,8 +40,8 @@ include "includes/navbar.php";
                     Learn More
                 </a>
 
-                <a href="join.php" class="btn btn-outline-light btn-lg">
-                    Join Us
+                <a href="contact.php" class="btn btn-outline-light">
+                    Contact Us
                 </a>
                </div>
 
@@ -63,10 +63,10 @@ include "includes/navbar.php";
                     Creating lasting change in Isolo Metro through
                     impactful community projects.
                 </p>
-
-                <a href="projects.php" class="btn btn-warning btn-lg">
+              <div class="caption-button"><a href="projects.php" class="btn btn-warning btn-lg">
                     Our Projects
-                </a>
+                </a></div>
+                
 
             </div>
 
@@ -87,10 +87,10 @@ include "includes/navbar.php";
                     Together we can inspire hope, empower youth
                     and improve lives.
                 </p>
-
-                <a href="contact.php" class="btn btn-warning btn-lg">
+              <div class="caption-button"><a href="contact.php" class="btn btn-warning btn-lg">
                     Contact Us
-                </a>
+                </a></div>
+                
 
             </div>
 
@@ -119,6 +119,39 @@ include "includes/navbar.php";
 
 </div>
 
+<section class="w3l-about-2 py-5">
+      <div class="container py-md-5 py-4">
+        <div class="row align-items-center">
+          <div class="col-lg-6 about-2-secs-left">
+            <h2 class="small-title mb-2">
+            Welcome Speech by our Amiable President
+            </h2>
+            <br>
+            <p class="rotary-intro" style="margin-bottom: 20px; font-size: 1.1rem;">
+            Welcome to the Rotary Club of Isolo, It is with great pride and honor that I serve as the president of this esteemed club, dedicated to service above self and making a positive impact in our community and beyond. Our club is committed to driving initiatives that address pressing social issues, enhance community well-being, and promote education and economic empowerment.
+            </p>
+            
+            <p class="rotary-foundation" style="margin-bottom: 20px; font-size: 1.1rem;">
+            From health outreach programs to environmental sustainability projects, we strive to make a difference in the lives of those we serve. As we continue to grow and expand our reach, I invite you to join us on this journey of service.
+            </p>
+            
+            <p class="rotary-leadership" style="margin-bottom: 20px; font-size: 1.1rem;">
+            Whether you are a prospective member, a partner organization, or a well-wisher, your support is invaluable in helping us achieve our goals. Together, we can build a better, more inclusive future for all. Thank you for visiting our website.
+            </p>
+            
+            <p class="rotary-current" style="margin-bottom: 20px; font-size: 1.1rem; font-weight: 500;">
+            I encourage you to explore our activities, learn more about our ongoing projects, and find out how you can be a part of our mission. Let us work hand in hand to create lasting change in our community.
+            </p>
+          </div>
+          <div class="col-lg-6 about-2-secs-right mt-lg-4 mt-5">
+          <img
+    src="assets/images/history1.png"
+    alt=""
+    class="img-fluid rounded-4 shadow">
+          </div>
+        </div>
+      </div>
+    </section>
 
 <section class="fellowship-section mt-5">
 

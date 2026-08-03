@@ -53,9 +53,9 @@ Send us a message today.</p>
 
 <p>
 
-15 Godwin Omonua Street,<br>
+8/10 Oludegun St,<br>
 
-Ire-Akari Estate Road,<br>
+Off Ire-Akari Estate Road,<br>
 
 Isolo, Lagos.
 

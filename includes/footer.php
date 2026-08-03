@@ -43,7 +43,7 @@
 <h5>Contact</h5>
 
 <p>
-  <i class="fa fa-location-dot"></i>  15 Godwin Omonua Street, Ire-Akari Estate Rd, Area, Lagos
+  <i class="fa fa-location-dot"></i>  8/10 Oludegun St, off Ire-Akari Estate Road, Oshodi/Isolo Lagos
 </p>
 
 <p>

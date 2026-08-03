@@ -39,7 +39,7 @@ include "includes/navbar.php";
 
 <div class="col-lg-6">
 
-<img src="assets/images/events-banner1.png"
+<img src="assets/images/eventsimage2.png"
 class="img-fluid rounded-4 shadow">
 
 </div>
@@ -152,7 +152,7 @@ Register
 </div>
 <div class="col-lg-6">
 
-<img src="assets/images/events-banner2.png"
+<img src="assets/images/events-image1.png"
 class="img-fluid rounded-4 shadow-lg">
 
 </div>
@@ -262,7 +262,7 @@ Read More
 
 <div class="card event-card h-100">
 
-<img src="assets/images/sch-donation1.png"
+<img src="assets/images/rotary-project-gallery.png"
 class="card-img-top event-img">
 
 <div class="card-body">
