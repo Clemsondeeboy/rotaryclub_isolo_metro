@@ -35,13 +35,15 @@ include "includes/navbar.php";
                     humanitarian service, leadership and fellowship.
                 </p>
 
-                <a href="about.php" class="btn btn-warning btn-lg">
+               <div class="caption-button">
+               <a href="about.php" class="btn btn-warning btn-lg">
                     Learn More
                 </a>
 
                 <a href="join.php" class="btn btn-outline-light btn-lg">
                     Join Us
                 </a>
+               </div>
 
             </div>
 

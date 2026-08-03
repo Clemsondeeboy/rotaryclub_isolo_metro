@@ -73,7 +73,7 @@ img {
   color: #fff;
   height: 50px !important;
   font-weight: 600;
-  padding: 12px 20px;
+  padding: 10px 25px !important;
   border-radius: 20px !important;
   transition: 0.3s;
 }
@@ -451,6 +451,10 @@ img {
 .ab-banner-text {
   padding: 8em;
 
+ h1{
+  font-weight: bold;
+ }
+
   p {
     font-weight: 400;
     font-size: 18px;
@@ -726,6 +730,22 @@ img {
 
     }
 
+    @media screen and (max-width: 768px) {
+      .contact-box p{
+        width: 100% !important;
+        font-size: 13px !important;
+      }
+      .ab-banner-text{
+        padding: 10px !important;
+      }
+      .btn-warning{
+        font-size: 12px !important;
+      } 
+      .carousel-caption .caption-button a{
+        margin-bottom: 30px !important;
+      }
+    }
+
     .contact-form {
 
       background: #fff;
@@ -928,10 +948,7 @@ img {
         .newsletter-section .btn {
           height: 50px;   }
 
-      /* .fellowship-section {
-
-        background: #f8f9fa;
-      } */
+      
 
     .top-title {
 
@@ -1071,7 +1088,7 @@ img {
 
     }
 
-    @media(max-width:768px) {
+    @media screen and (max-width:768px) {
 
       .welcome-box {
 

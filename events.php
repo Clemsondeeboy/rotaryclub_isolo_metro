@@ -105,7 +105,7 @@ of essential medicines.
 
 </p>
 
-<div class="row mt-4">
+<div class="row mt-4 mb-4">
 
 <div class="col-6">
 
@@ -143,7 +143,7 @@ Rotary Club
 
 <a href="#"
 
-class="btn btn-warning btn-lg mt-4">
+class="btn btn-warning btn-lg mt-4 mb-4">
 
 Register
 
