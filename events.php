@@ -1,337 +1,432 @@
-<?php
+    <?php
 
-include "includes/header.php";
-include "includes/navbar.php";
+    include "includes/header.php";
+    include "includes/navbar.php";
 
-?>
+    ?>
 
 
-<section class="events-banner py-5">
+    <section class="events-banner py-5">
 
-    <div class="w3l-breadcrumb py-lg-5">
+        <div class="w3l-breadcrumb py-lg-5">
 
-        <div class="container text-center pt-5">
+            <div class="container text-center pt-5">
 
-            <h1 class="display-4 fw-bold text-white">
+                <h1 class="display-4 fw-bold text-white">
 
-                Upcoming Events
+                Our Events
 
-            </h1>
+                </h1>
 
-            <p class="lead text-white">
+                <p class="lead text-white">
 
-                Join us as we serve our community through impactful events.
+                    Join us as we serve our community through impactful events.
 
-            </p>
+                </p>
+
+            </div>
 
         </div>
 
+    </section>
+
+
+    <section class="py-5 bg-light">
+
+    <div class="container">
+
+    <div class="row align-items-center">
+
+    <div class="col-lg-6">
+
+    <img src="assets/images/eventsimage2.png"
+    class="img-fluid rounded-4 shadow">
+
     </div>
 
-</section>
+    <div class="col-lg-6">
 
+    <span class="text-warning fw-bold">
 
-<section class="py-5 bg-light">
+    OUR EVENTS
 
-<div class="container">
+    </span>
 
-<div class="row align-items-center">
+    <h2 class="fw-bold text-primary mt-2">
 
-<div class="col-lg-6">
+    Service Through Action
 
-<img src="assets/images/eventsimage2.png"
-class="img-fluid rounded-4 shadow">
+    </h2>
 
-</div>
+    <p class="text-muted">
 
-<div class="col-lg-6">
+    Every Rotary event is an opportunity to touch lives,
+    build friendships and strengthen our community.
+    We organize medical outreaches, youth empowerment,
+    environmental sanitation, literacy campaigns,
+    fundraising activities and fellowship meetings.
 
-<span class="text-warning fw-bold">
+    </p>
 
-OUR EVENTS
+    </div>
 
-</span>
+    </div>
 
-<h2 class="fw-bold text-primary mt-2">
+    </div>
 
-Service Through Action
+    </section>
 
-</h2>
 
-<p class="text-muted">
+    <section class="py-5">
 
-Every Rotary event is an opportunity to touch lives,
-build friendships and strengthen our community.
-We organize medical outreaches, youth empowerment,
-environmental sanitation, literacy campaigns,
-fundraising activities and fellowship meetings.
+    <div class="container">
 
-</p>
+    <div class="row align-items-center">
 
-</div>
+    <div class="col-lg-6">
 
-</div>
+    <span class="badge  text-warning fs-6">
 
-</div>
+    Upcoming Event
 
-</section>
+    </span>
 
+    <h2 class="fw-bold mt-3">
 
-<section class="py-5">
+    Annual Community Medical Outreach
 
-<div class="container">
+    </h2>
 
-<div class="row align-items-center">
+    <p>
 
-<div class="col-lg-6">
+    Free medical consultation, blood pressure checks,
+    eye screening, health education and distribution
+    of essential medicines.
 
-<span class="badge  text-warning fs-6">
+    </p>
 
-Upcoming Event
+    <div class="row mt-4 mb-4">
 
-</span>
+    <div class="col-6">
 
-<h2 class="fw-bold mt-3">
+    <strong>Date</strong><br>
 
-Annual Community Medical Outreach
+    12 August 2026
 
-</h2>
+    </div>
 
-<p>
+    <div class="col-6">
 
-Free medical consultation, blood pressure checks,
-eye screening, health education and distribution
-of essential medicines.
+    <strong>Time</strong><br>
 
-</p>
+    9:00 AM
 
-<div class="row mt-4 mb-4">
+    </div>
 
-<div class="col-6">
+    <div class="col-6 mt-3">
 
-<strong>Date</strong><br>
+    <strong>Venue</strong><br>
 
-12 August 2026
+    Isolo Lagos
 
-</div>
+    </div>
 
-<div class="col-6">
+    <div class="col-6 mt-3">
 
-<strong>Time</strong><br>
+    <strong>Organizer</strong><br>
 
-9:00 AM
+    Rotary Club
 
-</div>
+    </div>
 
-<div class="col-6 mt-3">
+    </div>
 
-<strong>Venue</strong><br>
+    <a href="#"
 
-Isolo Lagos
+    class="btn btn-warning btn-lg mt-4 mb-4">
 
-</div>
+    Register
 
-<div class="col-6 mt-3">
+    </a>
 
-<strong>Organizer</strong><br>
+    </div>
+    <div class="col-lg-6">
 
-Rotary Club
+    <img src="assets/images/events-image1.png"
+    class="img-fluid rounded-4 shadow-lg">
 
-</div>
+    </div>
 
-</div>
+    </div>
 
-<a href="#"
+    </div>
 
-class="btn btn-warning btn-lg mt-4 mb-4">
+    </section>
 
-Register
 
-</a>
+    <section class="py-5 bg-light">
 
-</div>
-<div class="col-lg-6">
+    <div class="container">
 
-<img src="assets/images/events-image1.png"
-class="img-fluid rounded-4 shadow-lg">
+    <div class="text-center mb-5">
 
-</div>
+    <h2 class="fw-bold text-primary">
 
-</div>
+    More Events
 
-</div>
+    </h2>
 
-</section>
+    <p>
 
+    Serving Humanity One Event At A Time
 
-<section class="py-5 bg-light">
+    </p>
 
-<div class="container">
+    </div>
 
-<div class="text-center mb-5">
+    <div class="row g-4">
 
-<h2 class="fw-bold text-primary">
+    <div class="col-lg-4">
 
-More Events
+    <div class="card event-card h-100">
 
-</h2>
+    <img src="assets/images/youth-emporwerment1.png"
+    class="card-img-top event-img">
 
-<p>
+    <div class="card-body">
 
-Serving Humanity One Event At A Time
+    <h5 class="fw-bold">
 
-</p>
+    Youth Empowerment Seminar
 
-</div>
+    </h5>
 
-<div class="row g-4">
+    <p>
 
-<div class="col-lg-4">
+    Helping young people develop
+    leadership and career skills.
 
-<div class="card event-card h-100">
+    </p>
 
-<img src="assets/images/youth-emporwerment1.png"
-class="card-img-top event-img">
+    <a href="#"
 
-<div class="card-body">
+    class="btn btn-warning">
 
-<h5 class="fw-bold">
+    Read More
 
-Youth Empowerment Seminar
+    </a>
 
-</h5>
+    </div>
 
-<p>
+    </div>
 
-Helping young people develop
-leadership and career skills.
+    </div>
 
-</p>
+    <div class="col-lg-4">
 
-<a href="#"
+    <div class="card event-card h-100">
 
-class="btn btn-warning">
+    <img src="assets/images/ab-ban.png"
+    class="card-img-top event-img">
 
-Read More
+    <div class="card-body">
 
-</a>
+    <h5 class="fw-bold">
 
-</div>
+    Environmental Sanitation
 
-</div>
+    </h5>
 
-</div>
+    <p>
 
-<div class="col-lg-4">
+    Keeping our community clean
+    through environmental awareness.
 
-<div class="card event-card h-100">
+    </p>
 
-<img src="assets/images/enveronment-sanitation1.png"
-class="card-img-top event-img">
+    <a href="#"
 
-<div class="card-body">
+    class="btn btn-warning">
 
-<h5 class="fw-bold">
+    Read More
 
-Environmental Sanitation
+    </a>
 
-</h5>
+    </div>
 
-<p>
+    </div>
 
-Keeping our community clean
-through environmental awareness.
+    </div>
 
-</p>
+    <div class="col-lg-4">
 
-<a href="#"
+    <div class="card event-card h-100">
 
-class="btn btn-warning">
+    <img src="assets/images/rotary-project-gallery.png"
+    class="card-img-top event-img">
 
-Read More
+    <div class="card-body">
 
-</a>
+    <h5 class="fw-bold">
 
-</div>
+    Education Support Programme
 
-</div>
+    </h5>
 
-</div>
+    <p>
 
-<div class="col-lg-4">
+    Providing learning materials
+    to schools and students.
 
-<div class="card event-card h-100">
+    </p>
 
-<img src="assets/images/rotary-project-gallery.png"
-class="card-img-top event-img">
+    <a href="#"
 
-<div class="card-body">
+    class="btn btn-warning">
 
-<h5 class="fw-bold">
+    Read More
 
-Education Support Programme
+    </a>
 
-</h5>
+    </div>
 
-<p>
+    </div>
 
-Providing learning materials
-to schools and students.
+    </div>
 
-</p>
+    </div>
+    <div class="row g-4 mt-2 justify-content-center">
+                
+ 
+    <div class="col-lg-4 col-md-6">
 
-<a href="#"
+    <div class="card project-card h-100 border-0 shadow">
 
-class="btn btn-warning">
+        <img src="assets/images/empowerment1.png"
+            class="card-img-top project-img"
+            alt="Empowerment Program">
 
-Read More
+        <div class="card-body">
 
-</a>
+            <h5 class="fw-bold text-primary">
+                Empowerment Program:
+                Transforming Lives
+            </h5>
 
-</div>
+            <p>
+                Empowerment Program:
+                Transforming Lives.
+            </p>
 
-</div>
+            <a href="event-details.php?id=1" class="btn btn-warning">
+                Read More
+            </a>
 
-</div>
+            </div>
 
-</div>
+        </div>
 
-</div>
+        </div>
+    
+                <div class="col-lg-4 col-md-6">
+    
+                    <div class="card project-card h-100 border-0 shadow">
+    
+                        <img src="assets/images/mrs-shodunke-birthday.png"
+                            class="card-img-top project-img"
+                            alt="Birthday Celebration">
+    
+                        <div class="card-body">
+    
+                            <h5 class="fw-bold text-primary">
+                                President's 50th Birthday Celebration
+                            </h5>
+    
+                            <p>
+                                Celebrating leadership, fellowship and humanitarian service
+                                with members and guests.
+                            </p>
+    
+                            <a href="event-details.php?id=3"
+                                class="btn btn-warning">
+                                Read More
+                            </a>
+    
+                        </div>
+    
+                    </div>
+    
+                </div>
+    
+    
+                <div class="col-lg-4 col-md-6">
+    
+                    <div class="card project-card h-100 border-0 shadow">
+    
+                        <img src="assets/images/intaract-week.png"
+                            class="card-img-top project-img"
+                            alt="Interact Week">
+    
+                        <div class="card-body">
+    
+                            <h5 class="fw-bold text-primary">
+                                World Interact Week
+                            </h5>
+    
+                            <p>
+                                Promoting Basic Education and Literacy through meaningful
+                                engagement with students.
+                            </p>
+    
+                            <a href="world-interact-week.php"
+                                class="btn btn-warning">
+                                Read More
+                            </a>
+    
+                        </div>
+    
+                    </div>
+    
+                </div>
+    
+            </div>
 
-</section>
+    </div>
 
-<section class="py-5 text-white"
-style="background:#005DAA;">
+    </section>
 
-<div class="container text-center">
+    <section class="py-5 text-white"
+    style="background:#005DAA;">
 
-<h2 class="fw-bold">
+    <div class="container text-center">
 
-Become Part Of The Change
+    <h2 class="fw-bold">
 
-</h2>
+    Become Part Of The Change
 
-<p class="lead">
+    </h2>
 
-Join us in making a lasting impact
-within our community.
+    <p class="lead">
 
-</p>
+    Join us in making a lasting impact
+    within our community.
 
-<a href="join.php"
+    </p>
 
-class="btn btn-warning btn-lg">
+    <a href="join.php"
 
-Join Rotary Today
+    class="btn btn-warning btn-lg">
 
-</a>
+    Join Rotary Today
 
-</div>
+    </a>
 
-</section>
+    </div>
 
-<?php
+    </section>
 
-include "includes/footer.php";
+    <?php
 
-?>
+    include "includes/footer.php";
+
+    ?>

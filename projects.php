@@ -112,9 +112,7 @@ include "includes/navbar.php";
                             Transforming Lives.
                         </p>
 
-                        <a href="http://rotaryisolometro.org"
-                            target="_blank"
-                            class="btn btn-warning">
+                        <a href="event-details.php?id=1" class="btn btn-warning">
                             Read More
                         </a>
 
@@ -146,9 +144,7 @@ include "includes/navbar.php";
                             Surgery Initiative.
                         </p>
 
-                        <a href="http://rotaryisolometro.org"
-                            target="_blank"
-                            class="btn btn-warning">
+                        <a href="event-details.php?id=2" class="btn btn-warning">
                             Read More
                         </a>
 
@@ -178,7 +174,7 @@ include "includes/navbar.php";
                             sustainable development.
                         </p>
 
-                        <a href="#" class="btn btn-warning">
+                        <a href="event-details.php?id=3" class="btn btn-warning">
                             Read More
                         </a>
 
@@ -212,8 +208,7 @@ include "includes/navbar.php";
                             individuals and families within the community.
                         </p>
 
-                        <a href="http://rotaryisolometro.org"
-                            target="_blank"
+                        <a href="say-no-to-hunger.php"
                             class="btn btn-warning">
                             Read More
                         </a>
@@ -243,8 +238,7 @@ include "includes/navbar.php";
                             with members and guests.
                         </p>
 
-                        <a href="http://rotaryisolometro.org"
-                            target="_blank"
+                        <a href="event-details.php?id=3"
                             class="btn btn-warning">
                             Read More
                         </a>
@@ -275,8 +269,7 @@ include "includes/navbar.php";
                             engagement with students.
                         </p>
 
-                        <a href="http://rotaryisolometro.org"
-                            target="_blank"
+                        <a href="world-interact-week.php"
                             class="btn btn-warning">
                             Read More
                         </a>
@@ -308,8 +301,7 @@ include "includes/navbar.php";
                             to The Rotary Foundation.
                         </p>
 
-            <a href="http://rotaryisolometro.org/events/2024/11/21/the-rotary-foundation-benefits-of-giving/"
-                target="_blank"
+            <a href="event-details.php?id=1"
                 class="btn btn-warning">
 
                 Read More
@@ -345,8 +337,7 @@ include "includes/navbar.php";
 
             </p>
 
-            <a href="http://rotaryisolometro.org/events/2024/11/14/rotary-is-good/"
-                target="_blank"
+            <a href="event-details.php?id=2"
                 class="btn btn-warning">
 
                 Read More
@@ -382,8 +373,7 @@ include "includes/navbar.php";
 
             </p>
 
-            <a href="http://rotaryisolometro.org/events/2024/11/05/historic-moments-at-the-investiture-of-rotarian-shodunke-adefunke-as-the-6th-and-first-female-president/"
-                target="_blank"
+            <a href="event-details.php?id=3"
                 class="btn btn-warning">
 
                 Read More
@@ -421,8 +411,7 @@ include "includes/navbar.php";
 
             </p>
 
-            <a href="http://rotaryisolometro.org/events/2024/08/26/membership-outreach-parade/"
-                target="_blank"
+            <a href="event-details.php?id=4"
                 class="btn btn-warning">
 
                 Read More

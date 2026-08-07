@@ -1,98 +1,73 @@
 <?php
 
-require_once "config/db.php";
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-if($_SERVER["REQUEST_METHOD"]=="POST"){
+    $fullname     = trim($_POST['fullname']);
+    $email        = trim($_POST['email']);
+    $phone        = trim($_POST['phone']);
+    $gender       = trim($_POST['gender']);
+    $dob          = trim($_POST['dob']);
+    $occupation   = trim($_POST['occupation']);
+    $organization = trim($_POST['organization']);
+    $address      = trim($_POST['address']);
+    $reason       = trim($_POST['reason']);
 
-$fullname=trim($_POST['fullname']);
-$email=trim($_POST['email']);
-$phone=trim($_POST['phone']);
-$gender=trim($_POST['gender']);
-$dob=$_POST['dob'];
-$occupation=trim($_POST['occupation']);
-$organization=trim($_POST['organization']);
-$address=trim($_POST['address']);
-$reason=trim($_POST['reason']);
+    if (
+        empty($fullname) ||
+        empty($email) ||
+        empty($phone) ||
+        empty($gender) ||
+        empty($reason)
+    ) {
+        header("Location: join.php?error=1");
+        exit();
+    }
 
-if(empty($fullname) || empty($email) || empty($phone) || empty($gender) || empty($reason)){
+    $message = "
 
-header("Location: join.php?error=1");
-exit();
+=============================
+NEW MEMBERSHIP APPLICATION
+=============================
 
-}
+Full Name: $fullname
+Email: $email
+Phone: $phone
+Gender: $gender
+Date of Birth: $dob
+Occupation: $occupation
+Organization: $organization
+Address: $address
 
-$check=mysqli_query($conn,"SELECT id FROM membership_applications WHERE email='$email'");
+Reason For Joining:
+$reason
 
-if(mysqli_num_rows($check)>0){
+Submitted On: " . date("d M Y h:i A") . "
 
-header("Location: join.php?error=2");
-exit();
+----------------------------------------
 
-}
+";
 
-$passport="";
 
-if(isset($_FILES['passport']) && $_FILES['passport']['error']==0){
+    if ($_SERVER['SERVER_NAME'] == "localhost") {
 
-$folder="assets/uploads/passports/";
+        file_put_contents("data.txt", $message, FILE_APPEND | LOCK_EX);
 
-if(!file_exists($folder)){
+        header("Location: join.php?success=1");
+        exit();
+    }
 
-mkdir($folder,0777,true);
 
-}
+    else {
 
-$ext=strtolower(pathinfo($_FILES['passport']['name'],PATHINFO_EXTENSION));
+        // PHPMailer code goes here later
 
-$passport=time().rand(1000,9999).".".$ext;
+        header("Location: join.php?success=1");
+        exit();
+    }
 
-move_uploaded_file($_FILES['passport']['tmp_name'],$folder.$passport);
+} else {
 
-}
-
-$sql="INSERT INTO membership_applications(
-
-fullname,
-email,
-phone,
-gender,
-dob,
-occupation,
-organization,
-address,
-reason,
-passport
-
-)
-
-VALUES(
-
-'$fullname',
-'$email',
-'$phone',
-'$gender',
-'$dob',
-'$occupation',
-'$organization',
-'$address',
-'$reason',
-'$passport'
-
-)";
-
-if(mysqli_query($conn,$sql)){
-
-header("Location: join.php?success=1");
-
-}else{
-
-header("Location: join.php?error=1");
+    header("Location: join.php");
+    exit();
 
 }
-
-}else{
-
-header("Location: join.php");
-
-}
-?>

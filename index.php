@@ -278,11 +278,9 @@ OUR FELLOWSHIP
                   <div
                     class="d-flex align-items-center justify-content-between mt-4"
                   >
-                    <a
-                      href="http://rotaryisolometro.org/events/2025/01/17/rotary-club-of-isolo-metropolitan-sponsors-vision-2025-eye-cataract-surgery/" target="_blank"
-                      class="btn btn-warning"
-                      >Read More<i class="fas fa-arrow-right ms-1"></i
-                    ></a>
+                  <a href="vision-2025.php" class="btn btn-warning">
+                      Read More <i class="fas fa-arrow-right ms-1"></i>
+                  </a>
                   </div>
                 </div>
               </div>
@@ -302,11 +300,9 @@ OUR FELLOWSHIP
                   <div
                     class="d-flex align-items-center justify-content-between mt-4"
                   >
-                    <a
-                      href="http://rotaryisolometro.org/events/2024/12/07/the-say-no-to-hunger-project-aimed-to-combat-food-insecurity-by-providing-meals-to-vulnerable-individuals-and-families-in-the-community-ikotun-roundabout-lagos/" target="_blank"
-                      class="btn btn-warning"
-                      >Read More<i class="fas fa-arrow-right ms-1"></i
-                    ></a>
+                  <a href="say-no-to-hunger.php" class="btn btn-warning">
+                    Read More <i class="fas fa-arrow-right ms-1"></i>
+                </a>
                   </div>
                 </div>
               </div>
@@ -326,11 +322,9 @@ OUR FELLOWSHIP
                   <div
                     class="d-flex align-items-center justify-content-between mt-4"
                   >
-                    <a
-                    href="http://rotaryisolometro.org/events/2024/11/22/at-the-interact-club-of-matori-grammar-school-we-marked-the-world-interact-week-with-a-meaningful-talk-on-basic-education-and-literacy/" target="_blank"
-                       class="btn btn-warning"
-                      >Read More<i class="fas fa-arrow-right ms-1"></i
-                    ></a>
+                  <a href="world-interact-week.php" class="btn btn-warning">
+                      Read More <i class="fas fa-arrow-right ms-1"></i>
+                  </a>
                   </div>
                 </div>
               </div>
