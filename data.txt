@@ -1,0 +1,104 @@
+
+
+=============================
+NEW MEMBERSHIP APPLICATION
+=============================
+
+Full Name: Bless Dave
+Email: blessdave123@gmail.com
+Phone: 07083376140
+Gender: Male
+Date of Birth: 2026-08-03
+Occupation: webdev
+Organization: aledoy academy
+Address: 51 okota
+
+Reason For Joining:
+to support the community
+
+Passport: member_1786702497_e8c8228469.png
+
+Status: Pending
+
+Submitted On: 14 Aug 2026 12:14 PM
+
+----------------------------------------
+
+
+
+=============================
+NEW MEMBERSHIP APPLICATION
+=============================
+
+Full Name: john doe
+Email: johndoe@gmail.com
+Phone: 08095587341
+Gender: Male
+Date of Birth: 2026-08-14
+Occupation: backend-dev
+Organization: aledoy academy
+Address: 40 okota
+
+Reason For Joining:
+community dev
+
+Passport: member_1786707134_9945e61a7d.png
+
+Status: Pending
+
+Submitted On: 14 Aug 2026 01:32 PM
+
+----------------------------------------
+
+
+
+=============================
+NEW MEMBERSHIP APPLICATION
+=============================
+
+Full Name: john doe
+Email: johndoe@gmail.com
+Phone: 08012345678
+Gender: Male
+Date of Birth: 2026-08-14
+Occupation: backend-dev
+Organization: aledoy academy
+Address: 40 okota road
+
+Reason For Joining:
+community support
+
+Passport: member_1786711104_158f451f08.png
+
+Status: Pending
+
+Submitted On: 14 Aug 2026 02:38 PM
+
+----------------------------------------
+
+
+
+=============================
+NEW MEMBERSHIP APPLICATION
+=============================
+
+Full Name: john doe
+Email: johndoe@gmail.com
+Phone: 08012345678
+Gender: Male
+Date of Birth: 2026-08-14
+Occupation: backend-dev
+Organization: aledoy academy
+Address: 40 okota
+
+Reason For Joining:
+support on projects
+
+Passport: member_1786711765_34ac87f2fb.png
+
+Status: Pending
+
+Submitted On: 14 Aug 2026 02:49 PM
+
+----------------------------------------
+

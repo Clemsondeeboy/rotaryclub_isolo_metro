@@ -7,20 +7,10 @@ include "includes/navbar.php";
 
 <div id="heroSlider" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
-    <!-- <div class="carousel-indicators">
-
-        <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="0" class="active"></button>
-
-        <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="1"></button>
-
-        <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="2"></button>
-
-    </div> -->
-
     <div class="carousel-inner">
         <div class="carousel-item active">
 
-           <img src="assets/images/slide1.png" class="d-block w-100">
+           <img src="assets/images/first-slide1.png" class="d-block w-100">
 
             <div class="carousel-overlay"></div>
 
@@ -51,7 +41,7 @@ include "includes/navbar.php";
 
         <div class="carousel-item">
 
-            <img src="assets/images/slide2.png" class="d-block w-100 hero-img">
+            <img src="assets/images/second-slide2.png" class="d-block w-100 hero-img">
 
             <div class="carousel-overlay"></div>
 
@@ -75,7 +65,7 @@ include "includes/navbar.php";
 
         <div class="carousel-item">
 
-            <img src="assets/images/slide3.png" class="d-block w-100 hero-img">
+            <img src="assets/images/third-slide3.png" class="d-block w-100 hero-img">
 
             <div class="carousel-overlay"></div>
 
@@ -145,7 +135,7 @@ include "includes/navbar.php";
           </div>
           <div class="col-lg-6 about-2-secs-right mt-lg-4 mt-5">
           <img
-    src="assets/images/history1.png"
+    src="assets/images/mr-lu1.png"
     alt=""
     class="img-fluid rounded-4 shadow">
           </div>

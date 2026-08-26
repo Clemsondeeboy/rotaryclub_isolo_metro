@@ -27,6 +27,7 @@ $site = mysqli_fetch_assoc($result);
         rel="stylesheet">
 
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets/images/white-logo.png" type="image/x-icon">
     <link rel="stylesheet"
      href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/css/lightbox.min.css">
 
