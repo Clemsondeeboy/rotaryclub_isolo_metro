@@ -10,7 +10,7 @@ include "includes/navbar.php";
     <div class="carousel-inner">
         <div class="carousel-item active">
 
-           <img src="assets/images/first-slide1.png" class="d-block w-100">
+           <img src="assets/images/ijesha-even-pics2.png" class="d-block w-100">
 
             <div class="carousel-overlay"></div>
 
@@ -41,7 +41,7 @@ include "includes/navbar.php";
 
         <div class="carousel-item">
 
-            <img src="assets/images/second-slide2.png" class="d-block w-100 hero-img">
+            <img src="assets/images/ijesha-event-pic1.png" class="d-block w-100 hero-img">
 
             <div class="carousel-overlay"></div>
 
@@ -135,7 +135,7 @@ include "includes/navbar.php";
           </div>
           <div class="col-lg-6 about-2-secs-right mt-lg-4 mt-5">
           <img
-    src="assets/images/mr-lu1.png"
+    src="assets/images/rotary-pres-pic.png"
     alt=""
     class="img-fluid rounded-4 shadow">
           </div>

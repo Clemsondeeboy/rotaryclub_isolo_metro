@@ -39,7 +39,7 @@
 
     <div class="col-lg-6">
 
-    <img src="assets/images/eventsimage2.png"
+    <img src="assets/images/ijesha-event-pic1.png"
     class="img-fluid rounded-4 shadow">
 
     </div>

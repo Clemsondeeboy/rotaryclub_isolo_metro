@@ -105,7 +105,74 @@ Service • Fellowship • Impact
 
 </div>
 
+
+
 <div class="row g-4">
+
+<div class="col-lg-4 col-md-6">
+
+<a href="assets/images/rotay-event-pic4.png"
+data-lightbox="gallery">
+
+<img src="assets/images/rotay-event-pic4.png"
+class="gallery-img">
+
+</a>
+
+</div>
+
+<div class="col-lg-4 col-md-6">
+
+<a href="assets/images/rotay-event-pic2.png"
+data-lightbox="gallery">
+
+<img src="assets/images/rotay-event-pic2.png"
+class="gallery-img">
+
+</a>
+
+</div>
+
+<div class="col-lg-4 col-md-6">
+
+<a href="assets/images/rotary-even-pic6.png"
+data-lightbox="gallery">
+
+<img src="assets/images/rotary-even-pic6.png"
+class="gallery-img">
+</a>
+</div>
+<div class="col-lg-4 col-md-6">
+<a href="assets/images/rotary-event-pic5.png"
+data-lightbox="gallery">
+
+<img src="assets/images/rotary-event-pic5.png"
+class="gallery-img">
+
+</a>
+</div>
+
+<div class="col-lg-4 col-md-6">
+
+<a href="assets/images/rotary-even-pic8.png"
+data-lightbox="gallery">
+
+<img src="assets/images/rotary-even-pic8.png"
+class="gallery-img">
+
+</a>
+</div>
+<div class="col-lg-4 col-md-6">
+
+<a href="assets/images/rotary-even-pic9.png"
+data-lightbox="gallery">
+
+<img src="assets/images/rotary-even-pic9.png"
+class="gallery-img">
+
+</a>
+
+</div>
 
 <div class="col-lg-4 col-md-6">
 

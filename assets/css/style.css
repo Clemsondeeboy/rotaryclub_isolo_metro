@@ -103,12 +103,12 @@ img {
 }
 
 .carousel-item {
-  height: 70% !important;
+  height: 60% !important;
   position: relative;
 }
 
 .carousel-item img {
-  height: 70% !important;
+  height: 60% !important;
 }
 
 .carousel-overlay {
@@ -566,8 +566,8 @@ img {
 
 .events-banner {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.699)), url("../images/eventimage6.png");
-  height: 70vh;
+    linear-gradient(rgba(0, 0, 0, 0.699)), url("../images/rotary-event-pic1.png");
+  height: 90vh;
   width: 100%;
   background-repeat: no-repeat;
   background-position: center;
